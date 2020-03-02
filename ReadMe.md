@@ -8,7 +8,7 @@ This project can be run on any development board that support Node.js and progra
 You need to install these software programs to insure that the project will run correctly:
 * MATLAB R2011a or latest. 
 * [Node.js Platform](https://nodejs.org/en/download/current/) 'latest version'. 
-* If you will run the project on Intel Galileo/Edison development board, download [Intel XDK]() with image software of Galileo board and the [Bonjour Software](https://bonjour.en.softonic.com/) for Windows users.
+* If you will run the project on Intel Galileo/Edison development board, download [Intel XDK](https://drive.google.com/open?id=1MemFAQFdlOa_4mGAE-A2eo5DJW6lD6-d) with image software of Galileo board and the [Bonjour Software](https://bonjour.en.softonic.com/) for Windows users.
 
 ## Installing and Deployment
 * Download the project folder.
